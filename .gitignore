@@ -8,7 +8,7 @@
 /.bundle
 
 /config/database.yml
-/confug/secrets.yml
+/config/secrets.yml
 
 # Ignore all logfiles and tempfiles.
 /log/*
